@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/mipmap-hdpi/image_preview.png",
+        "source": "/Applications/Recipes2/app/src/main/res/mipmap-hdpi/image_preview.png"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/mipmap-hdpi/launcher.png",
+        "source": "/Applications/Recipes2/app/src/main/res/mipmap-hdpi/launcher.png"
+    }
+]

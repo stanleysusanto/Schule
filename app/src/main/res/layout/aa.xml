@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    android:fitsSystemWindows="true"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:gravity="center"
+        android:background="@color/AliceBlue"
+        android:layout_width="fill_parent"
+        android:layout_height="?actionBarSize">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="28.0dip"
+            android:src="@drawable/about"
+            android:adjustViewBounds="true" />
+
+    </LinearLayout>
+
+    <android.support.design.widget.TabLayout
+        android:id="@+id/layout_tab_home"
+        android:background="@color/abu"
+        android:layout_width="fill_parent"
+        android:layout_height="?actionBarSize"
+        app:tabIndicatorHeight="0.0dip"
+        app:tabMode="fixed"
+        app:tabGravity="fill"
+        app:tabTextColor="@color/white"
+        app:tabSelectedTextColor="@color/white" />
+
+    <FrameLayout
+        android:id="@+id/layout_container"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+</LinearLayout>

@@ -1,0 +1,79 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+tools:context="com.recipes.dewordy.RecipesList" >
+
+<item
+    android:id="@+id/profpic"
+    app:showAsAction="always"
+    android:visible="true" />
+<item
+    android:id="@+id/search"
+    android:icon="@drawable/action_search"
+    android:title="Search"
+    app:showAsAction="ifRoom|collapseActionView"
+    android:visible="false"/>
+
+<!--<item android:id="@+id/settings"-->
+    <!--android:icon="@drawable/login3"-->
+    <!--app:showAsAction="ifRoom|withText"-->
+    <!--android:visible="true" />-->
+
+    <!--<item android:id="@+id/settings2"-->
+        <!--android:icon="@drawable/login3"-->
+        <!--app:showAsAction="ifRoom|withText"-->
+        <!--android:visible="true" />-->
+
+    <item
+        android:id="@+id/namefor_menu"
+        android:icon="@drawable/about"
+        android:showAsAction="ifRoom|withText"
+        android:visible="false" />
+    <!--<item-->
+        <!--android:id="@+id/aboutus"-->
+        <!--android:icon="@drawable/about"-->
+        <!--android:title="About Us"-->
+        <!--android:showAsAction="ifRoom|withText" />-->
+    <item android:id="@+id/profile"
+        android:icon="@drawable/about"
+        android:title="Profile"
+        android:showAsAction="ifRoom|withText"
+        android:visible="true"/>
+<item android:id="@+id/logout"
+    android:icon="@drawable/about"
+    android:title="Logout"
+    android:showAsAction="ifRoom|withText"
+    android:visible="true"/>
+    <item android:id="@+id/login"
+        android:icon="@drawable/about"
+        android:title="Login"
+        android:showAsAction="ifRoom|withText"
+        android:visible="true"/>
+    <item android:id="@+id/signup"
+        android:icon="@drawable/about"
+        android:title="Signup"
+        android:showAsAction="ifRoom|withText"
+        android:visible="true"/>
+<!--<item android:id="@+id/notification"-->
+    <!--android:icon="@drawable/about"-->
+    <!--android:title="@string/action_settings"-->
+    <!--android:showAsAction="ifRoom|withText" />-->
+<item android:id="@+id/request"
+    android:icon="@drawable/about"
+    android:title="Request"
+    android:showAsAction="ifRoom|withText"
+    android:visible="false"/>
+    <!--<item android:id="@+id/howto"-->
+        <!--android:icon="@drawable/about"-->
+        <!--android:title="How To"-->
+        <!--android:showAsAction="ifRoom|withText" />-->
+<item android:id="@+id/help"
+    android:icon="@drawable/about"
+    android:title="Help"
+    android:showAsAction="ifRoom|withText" />
+<!--<item android:id="@+id/report"-->
+    <!--android:icon="@drawable/about"-->
+    <!--android:title="Report"-->
+    <!--android:showAsAction="ifRoom|withText" />-->
+</menu>
+

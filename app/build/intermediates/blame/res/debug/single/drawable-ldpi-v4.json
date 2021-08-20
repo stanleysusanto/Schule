@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon_launcher3.jpg",
+        "source": "/Applications/Recipes2/app/src/main/res/drawable-ldpi/icon_launcher3.jpg"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon_launcher5.jpg",
+        "source": "/Applications/Recipes2/app/src/main/res/drawable-ldpi/icon_launcher5.jpg"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon_launcher4.jpg",
+        "source": "/Applications/Recipes2/app/src/main/res/drawable-ldpi/icon_launcher4.jpg"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon_launcher.jpg",
+        "source": "/Applications/Recipes2/app/src/main/res/drawable-ldpi/icon_launcher.jpg"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon_launcher6.jpg",
+        "source": "/Applications/Recipes2/app/src/main/res/drawable-ldpi/icon_launcher6.jpg"
+    }
+]

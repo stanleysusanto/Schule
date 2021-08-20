@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="activ">#5c755e</color>
+    <color name="inactiv">#999999</color>
+    <color name="title_app">#111</color>
+    <color name="text">#101010</color>
+    <color name="image_background">#83817D</color>
+    <color name="background">#FEE8C1</color>
+    <color name="splash_background">#8c0000</color>
+    <color name="separator">#B2B2B2</color>
+    <color name="search_background">#101010</color>
+    <color name="text_button">#FFFFFF</color>
+    <color name="PowderBlue">#B0E0E6</color>
+    <color name="PaleTurquoise">#AFEEEE</color>
+    <color name="Azure">#F0FFFF</color>
+    <color name="AliceBlue">#F0F8FF</color>
+    <color name="PaleGreen">#98FB98</color>
+    <color name="LightGreen">#90EE90</color>
+    <color name="Aquamarine">#7FFFD4</color>
+    <color name="SeaShell">#FFF5EE</color>
+    <color name="Hijaumuda">#CCFFCC</color>
+    <color name="Abuabumuda">#F2F2F2</color>
+    <color name="Cream">#E9DCCD</color>
+    <color name="Navy">#36384C</color>
+    <color name="LighterCream">#FFFFE6</color>
+    <color name="abu">#bfbfbf</color>
+    <color name="red">#ff0000</color>
+    <color name="brown">#800000</color>
+    <color name="yellow">#ffff00</color>
+    <color name="abu1">#bfbfbf</color>
+    <color name="abu2">#999999</color>
+    <color name="birutrav">#66ccff</color>
+    <color name="birutrave">#33bbff</color>
+    <color name="birutravel">#33bbff</color>
+    <color name="uuu">#00cccc</color>
+    <color name="uuuu">#d9d9d9</color>
+    <color name="uuuuu">#77D0DE</color>
+    <color name="backtool">#35353F</color>
+    <color name="dis1">#9FDBE3</color>
+    <color name="dis2">#7fd1dd</color>
+    <color name="dis3">#7cc8d5</color>
+    <color name="dis4">#5bb8c7</color>
+    <color name="dis5">#5cb5c3</color>
+    <color name="dis6">#52abb9</color>
+    <color name="dis7">#a0dea5</color>
+    <color name="dis8">#a7dbdb</color>
+
+    #e6ffff
+    #b3ffff
+    #80ffff
+    #4dffff
+    #00ffff
+
+    <color name="primary">#E43F3F</color>
+    <color name="primary_dark">#E12929</color>
+    <color name="primary_darker">#CC1D1D</color>
+    <color name="accent">#FFFFFF</color>
+
+    <color name="black">#000000</color>
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+    <color name="monsoon">#777777</color>
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="trans">#00000000</color>
+</resources>

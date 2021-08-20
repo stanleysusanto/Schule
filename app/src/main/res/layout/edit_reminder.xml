@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/editSenin"
+        android:layout_gravity="center_horizontal"
+        android:hint="Senin"/>
+    <EditText
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/editSelasa"
+        android:layout_gravity="center_horizontal"
+        android:hint="Selasa"/>
+    <EditText
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/editRabu"
+        android:layout_gravity="center_horizontal"
+        android:hint="Rabu"/>
+    <EditText
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/editKamis"
+        android:layout_gravity="center_horizontal"
+        android:hint="Kamis"/>
+    <EditText
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/editJumat"
+        android:layout_gravity="center_horizontal"
+        android:hint="Jumat"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Send"
+        android:id="@+id/buttonEditReminder"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>

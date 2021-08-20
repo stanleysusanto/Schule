@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/xml/searchable.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/xml/searchable.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/xml/settings.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/xml/settings.xml"
+    }
+]

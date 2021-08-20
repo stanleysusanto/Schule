@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:android1="http://schemas.android.com/apk/res/android"
+        android:id="@+id/tableLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:shrinkColumns="*"
+        android:stretchColumns="*">
+
+        <!-- Baris pertama -->
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:gravity="center_horizontal">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="170dp"
+                android:layout_span="3"
+                android:gravity="center"
+                android:background="@drawable/right_border"
+                android:src="@drawable/image1"
+                android:paddingTop="35dp"
+                android:paddingBottom="35dp"
+                android:paddingRight="35dp"
+                android:paddingLeft="35dp"
+                android:id="@+id/image1"
+                android:nestedScrollingEnabled="true"
+                android:baselineAlignBottom="false"
+                android:layout_marginTop="0dp"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="170dp"
+                android:layout_span="3"
+                android:gravity="center"
+                android:background="@drawable/right_border"
+                android:src="@drawable/image2"
+                android:paddingTop="35dp"
+                android:paddingBottom="35dp"
+                android:paddingRight="35dp"
+                android:paddingLeft="35dp"
+                android:id="@+id/image2"
+                android:layout_marginTop="0dp"/>
+        </TableRow>
+
+        <!-- Baris kedua -->
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:gravity="center_horizontal">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="170dp"
+                android:layout_span="3"
+                android:gravity="center"
+                android:background="@drawable/right_border"
+                android:src="@drawable/image3"
+                android:paddingTop="35dp"
+                android:paddingBottom="35dp"
+                android:paddingRight="35dp"
+                android:paddingLeft="35dp"
+                android:id="@+id/image3"
+                android:layout_marginTop="0dp"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="170dp"
+                android:layout_span="3"
+                android:gravity="center"
+                android:background="@drawable/right_border"
+                android:src="@drawable/image4"
+                android:paddingTop="35dp"
+                android:paddingBottom="35dp"
+                android:paddingRight="35dp"
+                android:paddingLeft="35dp"
+                android:id="@+id/image4"
+                android:layout_marginTop="0dp"/>
+        </TableRow>
+
+        <!-- Baris ketiga -->
+        <TableRow
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent"
+            android:gravity="center_horizontal">
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="170dp"
+                android:layout_span="6"
+                android:gravity="center"
+                android:background="@drawable/right_border"
+                android:src="@drawable/image5"
+                android:paddingTop="35dp"
+                android:paddingBottom="35dp"
+                android:paddingRight="35dp"
+                android:paddingLeft="35dp"
+                android:id="@+id/image5"
+                android:layout_marginTop="0dp"/>
+</TableRow>
+    </TableLayout>
+</FrameLayout>

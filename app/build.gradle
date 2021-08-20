@@ -1,0 +1,51 @@
+apply plugin: 'com.android.application'
+
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+    defaultConfig {
+        applicationId 'com.recipes.dewordy'
+        minSdkVersion 15
+        targetSdkVersion 25
+        multiDexEnabled true
+    }
+    signingConfigs {
+        debug {
+            storeFile file(project.property("MYAPP_RELEASE_STORE_FILE"))
+            storePassword project.property("MYAPP_RELEASE_STORE_PASSWORD")
+            keyAlias project.property("MYAPP_RELEASE_KEY_ALIAS")
+            keyPassword project.property("MYAPP_RELEASE_KEY_PASSWORD")
+        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            signingConfig signingConfigs.debug
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+//    compile project(path: ':library8')
+    //    compile project(':view_pager_indicator')
+    compile project(path: ':library')
+    compile 'com.squareup.retrofit:retrofit:1.9.0'
+    compile 'com.squareup.okhttp:okhttp-urlconnection:2.0.0'
+    compile 'com.squareup.okhttp:okhttp:2.0.0'
+    compile 'com.squareup.okio:okio:1.0.1'
+    compile 'com.android.support:appcompat-v7:24.0.0-beta1'
+    compile 'com.android.support:design:24.0.0-beta1'
+    compile 'com.squareup.picasso:picasso:2.3.3'
+    compile 'com.jakewharton:butterknife:7.0.1'
+    compile 'com.facebook.android:facebook-android-sdk:4.+'
+    compile 'com.google.android.gms:play-services-gcm:8.4.0'
+    compile 'com.google.android.gms:play-services-auth:8.4.0'
+    compile 'com.mcxiaoke.volley:library-aar:1.0.0'
+    compile 'com.ms-square:expandableTextView:0.1.4'
+}
+
+apply plugin: 'com.google.gms.google-services'

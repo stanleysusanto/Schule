@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Abuabumuda">
+
+    <!--<android.support.v4.view.ViewPager-->
+        <!--android:id="@+id/slider_posts_viewpager"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="250dp"-->
+        <!--android:layout_below="@id/lytTitleBar" />-->
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="-10dp"
+        android:layout_marginLeft="20dp"
+        android:visibility="gone">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bre1"
+        android:textSize="16dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bre2"
+        android:layout_toEndOf="@+id/bre1"
+        android:layout_toRightOf="@+id/bre1"
+        android:textSize="16dp"
+        android:textColor="@color/black"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bre3"
+        android:layout_toEndOf="@+id/bre2"
+        android:layout_toRightOf="@+id/bre2"
+        android:textSize="16dp"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bre4"
+        android:layout_toEndOf="@+id/bre3"
+        android:layout_toRightOf="@+id/bre3"
+        android:textSize="16dp"
+        android:textColor="@color/black"/>
+    </RelativeLayout>
+<ImageView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:src="@drawable/iconplusss"
+    android:id="@+id/addtopic"
+    android:layout_gravity="right"
+    android:layout_marginTop="15dp"
+    android:layout_marginRight="20dp"/>
+    <!--<com.viewpagerindicator.CirclePageIndicator-->
+    <!--android:id="@+id/indicator"-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_above="@+id/listRecipes"-->
+    <!--android:background="@android:color/transparent"-->
+    <!--app:fillColor="#FF888888"-->
+    <!--app:pageColor="#881c8bbd"-->
+    <!--app:strokeColor="#FF1c8bbd"-->
+    <!--app:strokeWidth="2dp" />-->
+
+
+    <ListView
+        android:id="@+id/listRecipes"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:fadeScrollbars="true"
+        android:fastScrollEnabled="true"
+        android:fadingEdge="none"
+        android:divider="@color/Abuabumuda"
+        android:dividerHeight="8dp"
+        android:footerDividersEnabled="true"
+        android:headerDividersEnabled="true"
+        android:layout_below="@+id/slider_posts_viewpager"
+        android:layout_above="@+id/lytSearch"
+        android:visibility="gone"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"/>
+
+
+</LinearLayout>

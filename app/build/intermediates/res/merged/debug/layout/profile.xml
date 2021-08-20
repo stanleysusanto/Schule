@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1"
+    android:background="@color/white">
+    <ImageView
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:id="@+id/profilepic"
+        android:src="@drawable/about"
+        android:layout_gravity="left"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="2dip"
+        android:layout_alignParentLeft="true"
+        android:layout_toLeftOf="@+id/textView3"
+        android:background="@drawable/my_border"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="New Text"
+        android:id="@+id/textView3"
+        android:textIsSelectable="true"
+        android:textSize="50dp"
+        android:layout_marginTop="-70dp"
+        android:layout_marginBottom="50dp"
+        android:layout_gravity="center_horizontal"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:hint="username"
+        android:layout_alignParentRight="true"
+        android:layout_toRightOf="@+id/profilepic" />
+    <ImageButton
+        android:layout_width="106dp"
+        android:layout_height="wrap_content"
+        android:text="Edit Profile"
+        android:id="@+id/editprofile"
+        android:layout_gravity="right"
+        android:ellipsize="middle"
+        android:shadowColor="#e7e6e6"
+        android:singleLine="false"
+        android:layout_marginTop="-100dp"
+        android:layout_marginBottom="20dp"
+        android:src="@drawable/editprofileicon"/>
+    <!--<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >-->
+        <!--<item android:drawable="@color/black" />-->
+        <!--<item android:left="6dp"-->
+            <!--android:drawable="@color/black" />-->
+    <!--</layer-list>-->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="New Text"
+        android:id="@+id/textView4"
+        android:textIsSelectable="true"
+        android:textSize="30dp"
+        android:layout_gravity="center_horizontal"
+        android:textStyle="italic"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:hint="email"
+        android:layout_marginTop="30dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="New Text"
+        android:id="@+id/textView5"
+        android:textIsSelectable="true"
+        android:textSize="30dp"
+        android:layout_gravity="center_horizontal"
+        android:textStyle="italic"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:hint="city" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="New Text"
+        android:id="@+id/textView6"
+        android:textIsSelectable="true"
+        android:textSize="30dp"
+        android:layout_gravity="center_horizontal"
+        android:textStyle="italic"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:hint="birthplace"/>
+    <Button
+        android:layout_width="153dp"
+        android:layout_height="wrap_content"
+        android:text="Edit Reminder"
+        android:id="@+id/editreminder"
+        android:ellipsize="middle"
+        android:shadowColor="#e7e6e6"
+        android:singleLine="false"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_gravity="right"
+        android:background="@drawable/rounded_button"/>
+    <Button
+        android:layout_width="153dp"
+        android:layout_height="wrap_content"
+        android:text="Show Reminder"
+        android:id="@+id/showreminder"
+        android:ellipsize="middle"
+        android:shadowColor="#e7e6e6"
+        android:singleLine="false"
+        android:layout_marginTop="-50dp"
+        android:layout_marginLeft="20dp"
+        android:layout_gravity="left"
+        android:background="@drawable/rounded_button"/>
+</LinearLayout>

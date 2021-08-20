@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "254926937813",
+    "project_id": "dewordy-4ba01"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254926937813:android:e337cea59e7fd385",
+        "android_client_info": {
+          "package_name": "com.recipes.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254926937813-gsebi9u525e30ahtrjjhhgn8mftf6t18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNHVgFTvKrq8BRzSrZ1OWPkm4Fpn2aiCM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254926937813:android:3ccb054c95e5a806",
+        "android_client_info": {
+          "package_name": "com.recipes.dewordy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254926937813-4gd9hr0k448vf9jlqm9aq710t344pcb1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.recipes.dewordy",
+            "certificate_hash": "209A00B4D1EFBEA0DCE411BB56E70F9E706C2CAD"
+          }
+        },
+        {
+          "client_id": "254926937813-gsebi9u525e30ahtrjjhhgn8mftf6t18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNHVgFTvKrq8BRzSrZ1OWPkm4Fpn2aiCM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

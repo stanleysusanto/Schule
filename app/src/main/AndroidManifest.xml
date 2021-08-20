@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.recipes.dewordy"
+    android:versionCode="21"
+    android:versionName="6.0.2l" >
+
+    <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.RECEIVE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.SET_WALLPAPER"/>
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <permission
+        android:name="com.recipes.dewordy.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.recipes.dewordy.permission.C2D_MESSAGE" />
+    <!-- END Added for GCM -->
+
+    <application
+        android:name="com.recipes.dewordy.RemindMe"
+        android:icon="@drawable/icon_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+
+        <meta-data android:name="com.facebook.sdk.ApplicationId" android:value="@string/facebook_app_id"/>
+
+        <activity
+            android:name="com.recipes.dewordy.SplashScreen"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:configChanges="keyboardHidden|orientation"
+            android:noHistory="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.recipes.dewordy.MainActivity4"
+            android:label="@string/app_name" >
+        </activity>
+
+        <activity android:name="com.recipes.dewordy.AddAlarmActivity" android:windowSoftInputMode="stateHidden"></activity>
+        <activity android:name="com.recipes.dewordy.SettingsActivity"></activity>
+
+        <receiver android:name="com.recipes.dewordy.AlarmSetter">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.recipes.dewordy.AlarmReceiver"></receiver>
+
+        <service android:name="com.recipes.dewordy.AlarmService"></service>
+        <provider android:authorities="com.facebook.app.FacebookContentProvider1535545183414255"
+            android:name="com.facebook.FacebookContentProvider"
+            android:exported="true" />
+
+        <activity android:name="com.facebook.FacebookActivity"
+            android:configChanges=
+                "keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:label="@string/app_name" />
+
+        <activity android:name=".RecipesList"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity android:name=".RecipesList3"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:configChanges="keyboardHidden|orientation" />
+
+        <activity
+            android:name="com.recipes.dewordy.RecipeDetail"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:configChanges="keyboardHidden|orientation" />
+
+        <activity
+            android:name="com.recipes.dewordy.AboutApp"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:configChanges="keyboardHidden|orientation" />
+
+        <activity
+            android:name="com.recipes.dewordy.SchoolHomeFragment2"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:configChanges="keyboardHidden|orientation" />
+
+
+        <activity
+            android:name="com.recipes.dewordy.Help"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:configChanges="keyboardHidden|orientation" />
+
+        <activity
+            android:name="com.recipes.dewordy.Profile"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:configChanges="keyboardHidden|orientation" />
+
+        <activity
+            android:name=".Discussion"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:configChanges="keyboardHidden|orientation" />
+
+        <activity
+            android:name=".MainActivity6"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:configChanges="keyboardHidden|orientation" />
+
+        <activity
+            android:name="com.recipes.dewordy.MainActivity3"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:configChanges="keyboardHidden|orientation" />
+        <activity
+            android:name="com.recipes.dewordy.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:configChanges="keyboardHidden|orientation" />
+
+        <receiver android:name="com.recipes.dewordy.AlarmSetter">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.recipes.dewordy.AlarmReceiver"></receiver>
+
+        <service android:name="com.recipes.dewordy.AlarmService"></service>
+
+        <activity
+            android:name="com.recipes.dewordy.LoginActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:configChanges="keyboardHidden|orientation" />
+
+        <activity
+            android:name="com.recipes.dewordy.SignupActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:configChanges="keyboardHidden|orientation" />
+
+
+        <activity
+            android:name="com.recipes.dewordy.Request"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:configChanges="keyboardHidden|orientation" />
+
+        <receiver
+            android:name="com.google.android.gms.gcm.GcmReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <category android:name="com.github.hathibelagal.pn" />
+            </intent-filter>
+        </receiver>
+
+        <receiver
+            android:name="com.recipes.dewordy.gcm.GcmBroadcastReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+
+                <category android:name="com.recipes.app" />
+            </intent-filter>
+        </receiver>
+
+        <receiver android:name=".NotificationPublisher">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name=".NotificationAlarmService"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="NOTIFICATION_SERVICE" />
+            </intent-filter>
+        </service>
+
+        <service
+            android:name="com.recipes.dewordy.gcm.MyGcmPushReceiver"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+            </intent-filter>
+        </service>
+
+        <service
+            android:name="com.recipes.dewordy.gcm.GcmIntentService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.android.gms.iid.InstanceID" />
+            </intent-filter>
+        </service>
+
+
+
+    </application>
+
+</manifest>

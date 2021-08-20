@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout-large-v4/recipes_list.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout-large/recipes_list.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout-large-v4/recipe_detail.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout-large/recipe_detail.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout-large-v4/row_third.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout-large/row_third.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout-large-v4/fragment_front.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout-large/fragment_front.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout-large-v4/row2.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout-large/row2.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout-large-v4/row.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout-large/row.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout-large-v4/fragment_third.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout-large/fragment_third.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout-large-v4/splash_screen.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout-large/splash_screen.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout-large-v4/fragment_first.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout-large/fragment_first.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout-large-v4/row3.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout-large/row3.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout-large-v4/about_app.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout-large/about_app.xml"
+    }
+]

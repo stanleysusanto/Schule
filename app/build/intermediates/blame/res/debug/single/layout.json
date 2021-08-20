@@ -1,0 +1,514 @@
+[
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/tab_fragment_2.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/tab_fragment_2.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/fragment_home.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/general_list.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/general_list.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/include_repeating.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/include_repeating.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/about_app.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/about_app.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/com_facebook_device_auth_dialog_fragment.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/wrongverif.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/wrongverif.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/tab_fragment_1.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/tab_fragment_1.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/group.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/group.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_large.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/rowrekap.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/rowrekap.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/searchroom.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/searchroom.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/aa.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/aa.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/fragment_test.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/fragment_test.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/row2.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/row2.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/help.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/help.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/custom_list_view_child.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/custom_list_view_child.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_small.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/fragment_front.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/fragment_front.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/recipe_detail.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/recipe_detail.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/add.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/add.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/splash_screen.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/splash_screen.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/daily_devotion.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/daily_devotion.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/rowabsen.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/rowabsen.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/viewpager.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/viewpager.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/edit_reminder.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/edit_reminder.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/discussion.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/discussion.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/text_item.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/text_item.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/school_box.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/school_box.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/profile_design.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/profile_design.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/fragment_third.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/fragment_third.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_round.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/verification_box.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/verification_box.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/show_reminder.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/show_reminder.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/rekap_nilai.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/rekap_nilai.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/profile.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/profile.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/howto.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/howto.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/com_facebook_smart_device_dialog_fragment.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/layout/com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/toolbar_searchview.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/Recipes2/library/unspecified/res/layout/toolbar_searchview.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/com_facebook_login_fragment.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/custom_list_view.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/custom_list_view.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/forgot_password.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/forgot_password.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/row_comment.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/row_comment.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/absen_page.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/absen_page.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/edit_profile.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/edit_profile.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/request.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/request.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/com_facebook_activity_layout.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/fragment_planet.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/fragment_planet.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/row_third.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/row_third.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/drawer_list_item.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/drawer_list_item.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/row.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/row.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/activity_signup.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/activity_signup.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/requestbox.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/requestbox.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/design/24.0.0-beta1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_small.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/recipes_list.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/recipes_list.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/include_onetime.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/include_onetime.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/activity_main2.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/activity_main2.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/row_discussion.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/row_discussion.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_large.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/tab_fragment_3.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/tab_fragment_3.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/row4.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/row4.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/edit.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/edit.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/name_box.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/name_box.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/fragment_first.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/fragment_first.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_round.xml",
+        "source": "/Applications/Recipes2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/Applications/Recipes2/app/build/intermediates/res/merged/debug/layout/spinner_dropdown_item.xml",
+        "source": "/Applications/Recipes2/app/src/main/res/layout/spinner_dropdown_item.xml"
+    }
+]

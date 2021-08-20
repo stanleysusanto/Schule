@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent"
+	android:layout_height="wrap_content"
+	android:background="@color/white"
+	android:layout_margin="5dp"
+	android:paddingBottom="25dp"
+	>
+	<LinearLayout
+		android:id="@+id/lytItem"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:orientation="vertical"
+		android:gravity="center">
+		<TextView
+			android:id="@+id/txtRecipeName"
+			android:layout_width="1000dp"
+			android:layout_height="wrap_content"
+			android:textStyle="bold"
+			android:textColor="@color/text"
+			android:textSize="14sp"
+			android:layout_marginTop="28dp"
+			android:layout_gravity="center"
+			android:textAlignment="center" />
+		<TextView
+			android:id="@+id/txtReadyIn"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:textColor="@color/text"
+			android:textSize="8sp"
+			android:gravity="center"
+			android:textAlignment="center"/>
+	</LinearLayout>
+	<ListView
+		android:id="@+id/listcomment"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:fadeScrollbars="true"
+		android:fastScrollEnabled="true"
+		android:fadingEdge="none"
+		android:divider="@color/separator"
+		android:dividerHeight="1dp"
+		android:layout_below="@+id/lytItem"
+		android:visibility="gone"/>
+</RelativeLayout>
+
+

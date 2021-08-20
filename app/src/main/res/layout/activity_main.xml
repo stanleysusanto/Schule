@@ -1,0 +1,150 @@
+<!--
+  Copyright 2013 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+
+
+<!-- A DrawerLayout is intended to be used as the top-level content view using match_parent for both width and height to consume the full space available. -->
+<android.support.v4.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Abuabumuda">
+
+    <!--
+         As the main content view, the view below consumes the entire
+         space available using match_parent in both dimensions.
+    -->
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:theme="@style/AppTheme.AppBarOverlay"
+        android:elevation="0dp">
+
+        <android.support.v7.widget.Toolbar
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/Navy"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="55dp"
+            android:layout_marginTop="-58dp"
+            android:layout_marginLeft="110dp"
+            android:layout_marginRight="100dp"
+            android:id="@+id/toolbar_title"
+            android:src="@drawable/logotool5" />
+    </android.support.design.widget.AppBarLayout>
+
+
+    <FrameLayout
+        android:id="@+id/content_frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="50dp"
+        android:background="@color/text_button"/>
+
+    <!--<LinearLayout-->
+        <!--android:id="@+id/navDrawerView"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:layout_gravity="start"-->
+        <!--android:background="@android:color/white"-->
+        <!--android:orientation="vertical" >-->
+
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:background="@color/dis1"-->
+            <!--android:padding="42dp"-->
+            <!--android:text="Discussion"-->
+            <!--android:id="@+id/dis1"-->
+            <!--android:textColor="@android:color/white" />-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:background="@color/dis2"-->
+            <!--android:padding="42dp"-->
+            <!--android:text="General List"-->
+            <!--android:id="@+id/dis2"-->
+            <!--android:textColor="@android:color/white" />-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:background="@color/dis3"-->
+            <!--android:padding="42dp"-->
+            <!--android:text="Daily Devotion"-->
+            <!--android:id="@+id/dis3"-->
+            <!--android:textColor="@android:color/white" />-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:background="@color/dis4"-->
+            <!--android:padding="42dp"-->
+            <!--android:text="Absent"-->
+            <!--android:id="@+id/dis4"-->
+            <!--android:textColor="@android:color/white" />-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:background="@color/dis5"-->
+            <!--android:padding="42dp"-->
+            <!--android:text="Score List"-->
+            <!--android:id="@+id/dis5"-->
+            <!--android:textColor="@android:color/white" />-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:background="@color/dis6"-->
+            <!--android:padding="42dp"-->
+            <!--android:text="Reminder"-->
+            <!--android:id="@+id/dis6"-->
+            <!--android:textColor="@android:color/white" />-->
+
+        <!--<ExpandableListView-->
+            <!--android:id="@+id/nav_left_drawer"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="600dp"-->
+            <!--android:background="@android:color/white"-->
+            <!--android:choiceMode="singleChoice"-->
+            <!--android:divider="@android:color/transparent"-->
+            <!--android:dividerHeight="0dp"-->
+            <!--android:groupIndicator="@null" >-->
+        <!--</ExpandableListView>-->
+
+        <!--&lt;!&ndash;<ImageButton&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_width="160dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_height="30dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:src="@drawable/login4"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:id="@+id/login_drawer"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_marginTop="-30dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_gravity="center"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:visibility="visible"/>&ndash;&gt;-->
+        <!--&lt;!&ndash;<ImageButton&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_width="160dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_height="30dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:src="@drawable/logout_drawer"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:id="@+id/logout_drawer"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_marginTop="-30dp"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:layout_gravity="center"&ndash;&gt;-->
+            <!--&lt;!&ndash;android:visibility="visible"/>&ndash;&gt;-->
+    <!--</LinearLayout>-->
+
+</android.support.v4.widget.DrawerLayout>

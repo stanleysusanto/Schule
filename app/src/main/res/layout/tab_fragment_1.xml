@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/Abuabumuda">
+    
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/refreshbutton"
+        android:src="@drawable/refresh"
+        android:foregroundGravity="right"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="5dp"/>
+
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/activity_main_swipe_refresh_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="55dp"
+        android:layout_marginTop="40dp" >
+
+        <ListView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/listView"
+        android:divider="@color/Abuabumuda"
+        android:dividerHeight="18dp"
+        android:layout_alignParentTop="true"
+        android:layout_above="@+id/relativelayout"
+        android:stackFromBottom="true" />
+
+    </android.support.v4.widget.SwipeRefreshLayout>
+    
+    <RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+    android:id="@+id/relativelayout"
+    android:layout_marginTop="20dp">
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:text="Send"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/chatbar"
+        android:layout_toRightOf="@+id/button2"
+        android:layout_toLeftOf="@+id/button1"
+        android:cursorVisible="true"
+        android:maxLines="100000"
+        android:imeOptions="actionDone"
+        android:nextFocusUp="@id/editText"
+        android:nextFocusLeft="@id/editText"
+        android:hint="text here"
+        android:textCursorDrawable="@null"
+        android:layout_marginLeft="10dp"
+        android:selectAllOnFocus="true"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Image"
+        android:layout_alignParentLeft="true"
+        android:id="@+id/button2"
+        android:src="@drawable/attach"
+        android:layout_marginLeft="5dp"
+        android:layout_marginBottom="-10dp"/>
+
+</RelativeLayout>
+</RelativeLayout>
